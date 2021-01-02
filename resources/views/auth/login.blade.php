@@ -73,6 +73,14 @@
                                 </button>
                             </div>
                         </div>
+                        <div class="form-group">
+                            <div class="col-md-6 col-md-offset-4">
+                                <span style="color: red">
+                                Demo Mail : demo@test.com <br>
+                                Demo Password : password
+                            </span>
+                            </div>
+                        </div>
                     </form>
                 </div>
             </div>
