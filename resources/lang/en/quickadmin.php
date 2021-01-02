@@ -3,14 +3,14 @@
 return [
 	
 	'user-management' => [
-		'title' => 'User CRUD',
+		'title' => 'Manage Users',
 		'created_at' => 'Time',
 		'fields' => [
 		],
 	],
 	
 	'roles' => [
-		'title' => 'Roles CRUD',
+		'title' => 'Roles',
 		'created_at' => 'Time',
 		'fields' => [
 			'title' => 'Title',
@@ -18,7 +18,7 @@ return [
 	],
 	
 	'users' => [
-		'title' => 'Users CRUD',
+		'title' => 'Users',
 		'created_at' => 'Time',
 		'fields' => [
 			'name' => 'Name',
@@ -30,7 +30,7 @@ return [
 	],
 	
 	'clients' => [
-		'title' => 'Clients CRUD',
+		'title' => 'Clients',
 		'created_at' => 'Time',
 		'fields' => [
 			'first-name' => 'First name',
@@ -41,7 +41,7 @@ return [
 	],
 	
 	'employees' => [
-		'title' => 'Doctors CRUD',
+		'title' => 'Doctors',
 		'created_at' => 'Time',
 		'fields' => [
 			'first-name' => 'First name',
@@ -53,7 +53,7 @@ return [
 	],
 	
 	'services' => [
-		'title' => 'Services CRUD',
+		'title' => 'Services',
 		'created_at' => 'Time',
 		'fields' => [
 			'name' => 'Name',
@@ -97,5 +97,5 @@ return [
 	'qa_back_to_list' => 'Back to list',
 	'qa_dashboard' => 'Dashboard',
 	'qa_delete' => 'Delete',
-	'quickadmin_title' => 'Poovarasu Doctor Appointment System',
+	'quickadmin_title' => 'Poovarasu Doctor\'s Appointment System',
 ];
